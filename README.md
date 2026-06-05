@@ -1,5 +1,5 @@
 # Planos-del-Aprendizaje.
-Repositorio para planes de aprendizaje.
+Repositorio para planos de aprendizaje.
 
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
